@@ -1,5 +1,5 @@
 {
-  "name": "team-preview",
+  "name": "partyscreen",
   "version": "1.0.0",
   "description": "Pokémon team preview image generator",
   "main": "dist/index.js",
