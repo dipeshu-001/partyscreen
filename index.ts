@@ -7,7 +7,7 @@ import path from 'path';
 import { Canvas, loadImage, registerFont } from 'canvas';
 import { tmpdir } from 'os';
 import { createWriteStream } from 'fs';
-import gifFrames from 'gif-frames';
+import gifFrames from 'gif-frame';
 
 export async function  summaryScreen(data: PokemonSet): Promise<Buffer> {
 	registerFont(path.join(__dirname, '../data/font/OpenSans-Semibold.ttf'), { family: 'gamefont'});
