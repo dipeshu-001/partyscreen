@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrifcastr/team-preview.git"
+    "url": "git+https://github.com/dipeshu-001/partyscreen.git"
   },
   "keywords": [
     "Pokémon",
@@ -29,16 +29,16 @@
   "author": "adrifcastr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrifcastr/team-preview/issues"
+    "url": "https://github.com/dipeshu-001/partyscreen/issues"
   },
-  "homepage": "https://github.com/adrifcastr/team-preview#readme",
+  "homepage": "https://github.com/dipeshu-001/partyscreen#readme",
   "dependencies": {
     "@pkmn/data": "^0.4.6",
     "@pkmn/dex": "^0.4.6",
     "@pkmn/img": "^0.1.7",
     "@pkmn/sets": "^2.0.0",
     "canvas": "^2.8.0",
-    "gif-frames": "github:alensaito1/gif-frames",
+    "gif-frame": "github:alensaito1/gif-frames",
     "tslib": "^2.2.0"
   },
   "devDependencies": {
